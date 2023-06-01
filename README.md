@@ -28,9 +28,10 @@ With purpose-built serverless services, your application is likely to use **a co
 6. User notifications - Pattern: [Lambda to SNS](https://serverlessland.com/patterns/lambda-sns-sms)
 
 ## Bringing it all together: Insurance claims processing application
-- [GitHub repo](https://github.com/aws-samples/serverless-eda-insurance-claims-processing)
-- [Serverless office hours: Architecture walkthrough](https://www.youtube.com/watch?v=tkLEaaUmC30)
 - Building a modern, event-driven application for insurance claims processing - [Part 1](https://aws.amazon.com/blogs/industries/building-a-modern-event-driven-application-for-insurance-claims-processing-part-1/), [Part 2](https://aws.amazon.com/blogs/industries/building-a-modern-event-driven-application-for-insurance-claims-processing-part-2/), [Part 3](https://aws.amazon.com/blogs/compute/extending-a-serverless-event-driven-architecture-to-existing-container-workloads/)
+- [Serverless office hours: Architecture walkthrough](https://www.youtube.com/watch?v=tkLEaaUmC30)
+- [GitHub repo](https://github.com/aws-samples/serverless-eda-insurance-claims-processing)
+- Another example EDA application: [Serverlesspresso coffee ordering repo](https://github.com/aws-samples/serverless-coffee), [Building Serverlesspresso talk](https://www.youtube.com/watch?v=qs0U0LdNkV0)
 
 ## Learn more:
 - [Serverless Land: Event-driven architecture guide](https://serverlessland.com/event-driven-architecture)
