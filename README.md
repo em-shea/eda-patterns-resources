@@ -32,6 +32,7 @@ With purpose-built serverless services, your application is likely to use **a co
 - Building a modern, event-driven application for insurance claims processing - [Part 1](https://aws.amazon.com/blogs/industries/building-a-modern-event-driven-application-for-insurance-claims-processing-part-1/), [Part 2](https://aws.amazon.com/blogs/industries/building-a-modern-event-driven-application-for-insurance-claims-processing-part-2/), [Part 3](https://aws.amazon.com/blogs/compute/extending-a-serverless-event-driven-architecture-to-existing-container-workloads/)
 - [Serverless office hours: Architecture walkthrough](https://www.youtube.com/watch?v=tkLEaaUmC30)
 - [GitHub repo](https://github.com/aws-samples/serverless-eda-insurance-claims-processing)
+- An [event streaming use case](https://aws.amazon.com/blogs/apn/telemetry-based-decisions-for-auto-loans-and-usage-based-insurance-on-aws-from-globe-cascadeo/) for usage-based insurance
 - Another example EDA application: [Serverlesspresso coffee ordering repo](https://github.com/aws-samples/serverless-coffee), [Building Serverlesspresso talk](https://www.youtube.com/watch?v=qs0U0LdNkV0)
 
 ## Learn more:
