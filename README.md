@@ -18,6 +18,7 @@ Resources for my talk introducing event-driven architectures on AWS and 6 common
 With purpose-built serverless services, your application is likely to use **a combination of multiple services** together in an architecture pattern.
 
 ## Six EDA patterns to know
+![Patterns diagram](https://raw.githubusercontent.com/em-shea/eda-patterns-resources/main/patterns.png)
 ### Producing events:
 1. User input event - Pattern: [API Gateway to Lambda to EventBridge](https://serverlessland.com/patterns/apigw-lambda-eventbridge-sam-java)
 2. SaaS application event - Example: [Salesforce to EventBridge](https://s12d.com/salesforce-eventbridge)
