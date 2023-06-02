@@ -15,7 +15,9 @@ Resources for my talk introducing event-driven architectures on AWS and 6 common
 - AWS Lambda
 - Amazon Kinesis Data Streams
 
-With purpose-built serverless services, your application is likely to use **a combination of multiple services** together in an architecture pattern.
+Explore these services in [this guide on choosing an Application Integration service](https://aws.amazon.com/getting-started/decision-guides/application-integration-on-aws-how-to-choose/).
+
+With purpose-built serverless services, your application is likely to use **a combination of multiple services** together in an architecture pattern, rather than a single service.
 
 ## Six EDA patterns to know
 ![Patterns diagram](https://raw.githubusercontent.com/em-shea/eda-patterns-resources/main/patterns.png)
