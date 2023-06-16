@@ -1,6 +1,6 @@
 # Building Event-Driven Architectures on AWS: Six Patterns to Know
 
-Resources for my talk introducing event-driven architectures on AWS and 6 common EDA patterns.
+Resources for my talk introducing event-driven architectures on AWS and 6 common EDA patterns. [Download slides here](https://github.com/em-shea/eda-patterns-resources/blob/main/Building%20EDAs%20on%20AWS%20%26%20EDA%20Patterns.pdf).
 
 ## Why build event-driven?
 - Greater developer agility and extensibility - Hear from [Taco Bell](https://youtu.be/U5GZNt0iMZY?t=2139)
